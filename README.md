@@ -5,3 +5,5 @@ i assume you're here because either you're an idiot or a fan of incremental game
 i'm currently learning javascript and screw html or css i hate making actually good games pshhh
 
 you can't contact me. it is not allowed.
+
+correction: you can but no
